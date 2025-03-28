@@ -44,7 +44,7 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 
 ### Netztopologie
 
-<img src="file:///home/rsoliman/.config/marktext/images/2025-03-28-17-22-36-image.png" title="" alt="" width="739">
+![image.png](image 1.png)
 
 ## Adressierungstabelle
 
