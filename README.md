@@ -18,7 +18,7 @@ Die Geschäftsführung ist mit modernster mobiler Technologie wie High-End Lapto
 
 Als dynamisches mittelständisches Unternehmen verfügt die Firma über ein effizientes Team von 5-10 hochspezialisierten Mitarbeitern, die in einer modernen Bürostruktur eng zusammenarbeiten. Das innovative Kombibüro-Konzept mit verschiedenen Fachabteilungen fördert dabei die Kommunikation und Kreativität zwischen den Mitarbeitern. Ein Beispiel Kundenauftrag für die Bäckerei "Sweet Delights", eine Bäckerei mit amerikanischen Backwaren:
 
-![image.png](image.png)
+![image.png](image_sweet_delights.png)
 
 ---
 
@@ -44,7 +44,7 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 
 ### Netztopologie
 
-![image.png](image 1.png)
+![image.png](image_topology.png)
 
 ## Adressierungstabelle
 
