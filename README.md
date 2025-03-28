@@ -43,7 +43,6 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 | RECEPTION_SW       | -         | RECEPTION_SW       | reception    | reception.de  | admin | web      |            |
 
 ### Netztopologie
-
 ![image.png](image_topology.png)
 
 ## Adressierungstabelle
