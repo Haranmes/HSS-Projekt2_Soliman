@@ -43,6 +43,7 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 | RECEPTION_SW       | -         | RECEPTION_SW       | reception    | reception.de  | admin | web      |            |
 
 ### Netztopologie
+
 ![image.png](image_topology.png)
 
 ## Adressierungstabelle
@@ -76,7 +77,7 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 
 Herangehensweise Subnetting für VLAN:
 
-- 30 Hosts für jedes VLAN (mehr als genug für die derzeitige 3 hosts benötigt bei der aufgabenstellung)
+- 30 Hosts für jedes VLAN (mehr als genug für die derzeitige 3 Hosts, die nach der Aufgabenstellung benötigt werden)
 
 ### IP Adressen Pool der VLANs
 
