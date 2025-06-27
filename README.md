@@ -1,5 +1,13 @@
 # Webdesign & Marketing Soliman
 
+---
+
+| Lehrerin  | Schüler       | Schule                  | Abgabedatum   | Thema                                                                          |
+| --------- | ------------- | ----------------------- | ------------- | ------------------------------------------------------------------------------ |
+| Frau Haag | Ramez Soliman | Hubert-Sternberg-Schule | 27. Juni 2025 | Konfiguration und Aufbau eines VLAN-basierten Netzwerks in Cisco Packet Tracer |
+
+---
+
 ## Über "Webdesign & Marketing Soliman GmbH"
 
 ### Unternehmensgegenstand
@@ -19,6 +27,9 @@ Die Geschäftsführung ist mit modernster mobiler Technologie wie High-End Lapto
 Als dynamisches mittelständisches Unternehmen verfügt die Firma über ein effizientes Team von 5-10 hochspezialisierten Mitarbeitern, die in einer modernen Bürostruktur eng zusammenarbeiten. Das innovative Kombibüro-Konzept mit verschiedenen Fachabteilungen fördert dabei die Kommunikation und Kreativität zwischen den Mitarbeitern. Ein Beispiel Kundenauftrag für die Bäckerei "Sweet Delights", eine Bäckerei mit amerikanischen Backwaren:
 
 ![image.png](image_sweet_delights.png)
+
+> Hinweis: 
+> Auf die Webseite kann durch die neusten Änderungen nicht mehr zugegriffen werden
 
 ---
 
@@ -44,7 +55,7 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 
 ### Netztopologie
 
-![image.png](image_topology.png)
+![](/home/rsoliman/.config/marktext/images/2025-06-27-08-46-00-image.png)
 
 ## Adressierungstabelle
 
@@ -60,9 +71,10 @@ In der "Webdesign & Marketing Soliman GmbH" entsprechen die Namen der Geräte im
 | PC_EMPFANG              | VLAN20    | DHCP                | 255.255.255.224 | 10.195.0.62     |
 | PC_WEBDESIGNER          | VLAN40    | DHCP                | 255.255.255.224 | 10.195.0.62     |
 | IPhone_webdesigner      | VLAN40    | DHCP                | 255.255.255.224 | 10.195.0.62     |
-| CENTRAL_R1              | G0/1      | 10.0.0.1            | 255.255.255.0   | -               |
-| dns.sinsheim            | F0        | 10.0.0.2            | 255.255.255.0   | -               |
-| sweetdelights.webserver | F0        | 10.0.0.3            | 255.255.255.0   | -               |
+| CENTRAL_R1              | G0/1      | 1.1.1.1             | 255.255.255.252 | -               |
+| sweetdelights.webserver | F0        | 172.17.149.1        | 255.255.255.0   | 172.17.149.254  |
+
+---
 
 ### VLANs
 
